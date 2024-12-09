@@ -1,4 +1,4 @@
-# Chatbot-LangChai
+# Chatbot-LangChain
 RAG with LangChain is performed in two general steps:
 First Indexing, which allows data to be ingested from a source to be indexed and second,
 Retrieval and Generation is when the real RAG chain receives the user query at
